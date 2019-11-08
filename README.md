@@ -12,10 +12,7 @@
 1. Clone the project to your local machine to desired folder.
 If you work under Linux you should clone project to **/var/www/<desired_folder_name>**.
 <br>
-e.g.
-```
-$ git clone https://github.com/IVoyt/test_v-jet_blog.git /var/www/test_blog
-```
+e.g. `$ git clone https://github.com/IVoyt/test_v-jet_blog.git /var/www/test_blog`
 
 1. Create Virtualhost in your Apache Webserver, e.g. "test-blog.local".
 Specify "<path_to_project>/public/index.php" as entry point (DocumentRoot).

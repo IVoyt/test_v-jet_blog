@@ -1,8 +1,6 @@
-<div class="col-sm-12">
+<div class="col-md-12">
     <h1 class="mt-4">Новый пост</h1>
-</div>
 
-<div class="col-md-8">
     <form id="post-form" action="/post/create" method="post">
         <input type="hidden" name="_token" value="<?php echo $_token; ?>">
         <div class="form-group">

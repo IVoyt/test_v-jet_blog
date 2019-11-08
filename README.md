@@ -1,5 +1,13 @@
 # Test V-Jet Blog
 
+## Requirements
+* Windows/Linux/macOS
+* PHP 7.x
+* Apache 2.x
+* Mysql 5.6+
+* Any web browser
+
+
 ## Installation
 1. Clone the project to your local machine to desired folder.
 If you work under Linux you should clone project to **/var/www/<desired_folder_name>**.

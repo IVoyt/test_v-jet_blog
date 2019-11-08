@@ -20,7 +20,7 @@ Specify "<path_to_project>/public/index.php" as entry point (DocumentRoot).
 1. Create database in your Mysql Server.
 
 1. Import database's structure from **test_vjet_blog__blank.sql** (only structure)
-or **test_vjet_blog__2019-11-09.sql** (structure and data)
+or **test_vjet_blog__2019-11-09.sql** (structure and example data)
 to your Mysql Server using PHPMyAdmin or any another Mysql Client.
 
 1. Edit **<path_to_project>/config/db.php** according to your Mysql settings.
